@@ -1,8 +1,20 @@
-# NPC Simulation v2
+# NPC Simulation Alpha
 
 A research-oriented emergent-behaviour simulation in which autonomous NPCs,
 driven by a local LLM (Ollama), navigate a 2D world while one secretly-evil
 character tries to eliminate everyone else.
+
+How is this different from LlmSandbox? Well for a start, the storyteller
+in this can be neutral (default) or it can be other things. Dropdown box
+selects. Every detail is recorded in the logs. There is also a viewer app
+provided with which you can load and replay log files.
+Regardless of the number of characters in a sim, one of them will be evil.
+The evil one will try to take the others out. I've seen the evil one do
+some impressive things. On Qwen2.5:7b one round he actually realized that
+the storyteller existed, and made a plea to a 'higher power' that appealed
+to what he thought the storyteller's goal was. This allowed him to use the
+storyteller to manipulate the world to hide evidence of his crimes.
+If you see anything interesting like that, save the logs!
 
 ---
 
