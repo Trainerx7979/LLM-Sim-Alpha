@@ -4,6 +4,11 @@ A research-oriented emergent-behaviour simulation in which autonomous NPCs,
 driven by a local LLM (Ollama), navigate a 2D world while one secretly-evil
 character tries to eliminate everyone else.
 
+The LOG file is stored for each simulation, and a Visual Log replayer is
+included. You can review log files visually, and have access to ALL the
+data for each character at their turn. It's also stored in a human-readable
+format so that you can just browse or search for the section in question.
+
 How is this different from LlmSandbox? Well for a start, the storyteller
 in this can be neutral (default) or it can be other things. Dropdown box
 selects. Every detail is recorded in the logs. There is also a viewer app
