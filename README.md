@@ -1,5 +1,20 @@
 # NPC Simulation Alpha
 
+**Why does this exist?**
+
+The "Interactive Simulcra of Human Behavior" experiment was an amazing proof-of-concept
+toward agentic behavior research. It was an excellent "first-step" toward exploring the
+potential, and dangers, in having agent layers of protection as part of any system.
+It also explored inter-agent interactions allowing for new goals/plans to be made.
+But it was limited in true autonomy. The agents could interact, but could not make any
+real changes to their world. This was my first mostly successful attempt to remedy that
+situation. These agents can interact, can change their world, can drive entire storylines.
+While not as open to true autonomy as the LlmSandbox simulation, it still offers unique
+and interesting exploration specifically into aspects like agentic protection systems
+and other agents intentionally manipulating them (even if they don't know they exist)
+into altering conditions in their favor. Which absolutely happens in this sim occasionally.
+
+
 A research-oriented emergent-behaviour simulation in which autonomous NPCs,
 driven by a local LLM (Ollama), navigate a 2D world while one secretly-evil
 character tries to eliminate everyone else.
