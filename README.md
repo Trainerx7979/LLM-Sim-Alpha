@@ -250,3 +250,9 @@ Every turn is fully logged with:
 
 This makes the simulation suitable for studying emergent social behaviour in
 LLM-based agents.
+
+
+
+
+Any citations should be pointed to:
+<img src="https://zenodo.org/badge/DOI/10.5281/zenodo.19840385.svg" width="200" alt="Alt text">
